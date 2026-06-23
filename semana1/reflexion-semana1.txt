@@ -1,1 +1,10 @@
- 
+ extiste una relacion directa entre estos tres conceptos, por un lado el uso responsable de la información en internet es fundamental para evitar la desinformación.
+La ciudadanía digital implica actuar con ética y responsabilidad en entornos digitales.
+Git permite organizar el trabajo técnico de forma ordenada.
+Cada cambio en el proyecto queda registrado, lo que facilita el control de versiones.
+Esto ayuda a trabajar en equipo sin perder información.
+La verificación de datos es clave para una participación ciudadana responsable.
+Las herramientas como Git y GitHub fortalecen el desarrollo de software.
+En conjunto, mejoran la disciplina y la organización del trabajo.
+de modo que si un ciudadano digital haciendo uso de git para soportar y guardar todo lo que haciendo
+y pensara retractarse en algun momento, fuera imposible porque tiene un documento que lo conlleva a no inducir el error porque tiene prueba en su contra por su mismos hechos anteriores
